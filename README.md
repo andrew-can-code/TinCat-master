@@ -1,2 +1,1 @@
-# TinCat-master
-a landing page for a tinder type app for cats.
+TinCat Starting Files
